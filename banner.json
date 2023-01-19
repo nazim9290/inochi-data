@@ -1,0 +1,27 @@
+{
+"status": "success",
+"message": "find banner list successfully",
+"data": [
+{
+"_id": "638ceb54cc4914a2df0a12a6",
+"Name": "Banner",
+"banner": {
+"Name": "Banner",
+"banner": [
+{
+"id": "2bd986f9-e436-44f0-868c-715cf6fce117",
+"banner": "https://i.ibb.co/6X85Pp8/1s.jpg"
+},
+{
+"id": "e6d15a0b-78d1-4193-8833-5bd06acf0ad9",
+"banner": "https://i.ibb.co/VjLgSZv/3s.jpg"
+},
+{
+"id": "2780f702-c022-4004-8ec7-92d65358d54e",
+"banner": "https://i.ibb.co/Yhr7mpy/2s.jpg"
+}
+]
+}
+}
+]
+}
